@@ -1,49 +1,9 @@
-# [Alembic](https://alembic.darn.es/)
-[![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
-⚗ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.
+## Intereses
 
-![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
-
-[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
-
-## Contents
-- [About](#about)
-- [Features](#features)
-- [Examples](#examples)
-- [Installation](#installation)
-- [Customising](#customising)
-- [Configuration](#configuration)
-  - [Gem dependency settings](#gem-dependency-settings)
-  - [Site settings](#site-settings)
-  - [Site performance settings](#site-performance-settings)
-  - [Site navigation](#site-navigation)
-- [Using includes](#using-includes)
-- [Page layouts](#page-layouts)
-- [Page and Post options](#page-and-post-options)
-- [Credits](#credits)
-
-## About
-
-**Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate theme is designed to get rolling immediately. Install it, configure it, tweak it, push it.**
-
-## Features
-
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/) or [Netlify Forms](https://www.netlify.com/features/#forms)
-- Designed with **[Siteleaf](http://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+- Aplicación de algoritmos genéticos :scissors: y metaheurísticas :cherries:
+- Temas relacionados a la seguridad de la información. :floppy_disk:
+- Para contactarme este es mi [LinkedIn]( www.linkedin.com/in/carlos-velazquez-a38a7b1b9):herb:
 
 ## Examples
 
