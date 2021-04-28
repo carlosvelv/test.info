@@ -39,8 +39,8 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: CarlsVelazquez # jekyll-seo-tag > Owners twitter username
+author: Carlos Velázquez # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Carlos Velázquez # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
@@ -92,7 +92,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "$whoami" # Site name or title, also used in jekyll-seo-tag
+title: "Carlos Velázquez Blog" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
@@ -132,13 +132,13 @@ navigation_footer:
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+# Twitter: https://twitter.com/DavidDarnes
+  LinkedIn:  www.linkedin.com/in/carlos-velazquez-a38a7b1b9
+  GitHub: https://github.com/carlosvelv
+# link: https://darn.es
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
-  facebook: "#3B5998"
+# facebook: "#3B5998"
   Email: true
